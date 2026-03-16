@@ -1,4 +1,4 @@
-for i in range(3):
+for j in range(3):
     a=list(map(int,input().split()))
     n=0
     for i in a:
